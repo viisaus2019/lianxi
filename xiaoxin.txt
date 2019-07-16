@@ -1,1 +1,42 @@
 xiaoxin wenjian ni hao
+
+commit defd8af52be5183dfceb3e5cf23f78ea47d013b0
+Author: coder-pig <779878443@qq.com>
+Date:   Fri Jun 19 17:00:36 2015 +0800
+MainActivity Delete Menu
+--------------------- 
+作者：hebbely 
+来源：CSDN 
+原文：https://blog.csdn.net/hebbely/artic
+le/details/51858938 
+版权声明：本文为博主原创文章，转载请附上博文链接！
+
+commit defd8af52be5183dfceb3e5cf23f78ea47d013b
+0
+Author: coder-pig <77987844
+
+3@qq.com>
+Date:   Fri Jun 19 17:0
+0:36 2015 +0800
+MainActivit
+y Delete Menu
+
+--------------------- 
+作者：hebbely 
+来源：CSDN 
+原文：https://blog.csdn.net/hebbely/article/details/51858938 
+版权声明：本文为博主原创文章，转载请附上博文链接！
+
+
+commit defd8af52be5183dfceb3e5cf23f78e
+a47d013b0
+Author: coder-p
+ig <779878443@qq.com>
+Date:   Fri Jun 19 17:00:36 201
+5 +0800
+MainActivity Delete Menu
+--------------------- 
+作者：hebbely 
+来源：CSDN 
+原文：https://blog.csdn.net/hebbely/article/details/51858938 
+版权声明：本文为博主原创文章，转载请附上博文链接！
